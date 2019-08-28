@@ -13,7 +13,7 @@
                             <thead>
                                 <tr>
                                     <!-- <th>ID</th> -->
-                                    <th> Kategory Id </th><th> Title </th><th> Description </th><th>Actions</th>
+                                    <th> Kategory Id </th><th> Title </th><th> Description </th>
                                 </tr>
                             </thead>
                             <tbody>

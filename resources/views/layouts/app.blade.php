@@ -9,7 +9,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>{{ config('app.name', 'Laravel') }}</title>
-    <script src="http://maps.google.com/maps/api/js?key=AIzaSyB1RD7zebqdO7CqN3mGAJuOwD9gN0P8dfI"></script>
+    <script src="http://maps.google.com/maps/api/js?key={{$gmaps_api_key}}"></script>
     <script src="{{asset('js/gmaps.js')}}"></script>
     <style type="text/css">
     #map {

@@ -50,7 +50,7 @@
 	</div>
 	<div class="col-md-9">
 		<div class="panel panel-primary">
-			<div class="panel-heading">Maps</div>
+			<div class="panel-heading">Pemadaman</div>
 
 			<div class="panel-body no-padding">
 				<div id="map"></div>

@@ -64,8 +64,8 @@
     var map = new GMaps({
       el: '#map',
       zoom: 10,
-      lat: -7.5812427,
-      lng: 111.9081293,
+      lat: -8.2192335,
+      lng: 114.36922670000001,
       click: function(e) {
         // alert('click');
         var latLng = e.latLng;

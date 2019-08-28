@@ -17,6 +17,8 @@ class CreateMapsTable extends Migration
             $table->integer('kategory_id');
             $table->string('title')->nullable();
             $table->text('description')->nullable();
+            $table->text('no_telp')->nullable();
+            $table->text('wilayah')->nullable();
             $table->string('lat')->nullable();
             $table->string('long')->nullable();
             $table->text('upload')->nullable();

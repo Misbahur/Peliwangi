@@ -76,7 +76,7 @@
         title: '{{$d->title}} #',
         icon: 'img/{{$d->Kategori->icon}}',
         infoWindow: {
-            content : '<h3>{{$d->title}}</h3><p>{{$d->description}}</p><p>{{$d->no_telp}}</p>'
+            content : '<h3>{{$d->title}}</h3><p>{{$d->description}}</p><p>{{$d->wilayah}}</p>'
         }
     });
     @endforeach
